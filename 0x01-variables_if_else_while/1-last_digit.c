@@ -4,7 +4,7 @@
  *
  * Return: Always 0.
  */
-int man(void)
+int main(void)
 {
 	int n;
 
